@@ -7,11 +7,14 @@ This project demonstrates an image captioning system that utilizes Convolutional
 
 ## Screenshots
 
-Model ![model](https://github.com/Sameer1232018/image_captioning/assets/49482350/3a976a29-b3f9-49c4-a31f-1ec3d53da71e)
+### Model
+ ![model](https://github.com/Sameer1232018/image_captioning/assets/49482350/3a976a29-b3f9-49c4-a31f-1ec3d53da71e)
 
-Model loss plot ![model_loss_plot](https://github.com/Sameer1232018/image_captioning/assets/49482350/9b714231-809b-49b6-a35b-cc9a70206194)
+### Model loss plot 
+![model_loss_plot](https://github.com/Sameer1232018/image_captioning/assets/49482350/9b714231-809b-49b6-a35b-cc9a70206194)
 
-Final Results ![image-captioning_ss](https://github.com/Sameer1232018/image_captioning/assets/49482350/d394a76a-f0c7-4b6f-a8ee-5a338f09a5e8)
+### Final Results 
+![image-captioning_ss](https://github.com/Sameer1232018/image_captioning/assets/49482350/d394a76a-f0c7-4b6f-a8ee-5a338f09a5e8)
 
 
 ## Project Highlights
