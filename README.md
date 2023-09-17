@@ -13,10 +13,7 @@ This project demonstrates an image captioning system that utilizes Convolutional
 The project used the (https://www.kaggle.com/datasets/aladdinpersson/flickr8kimagescaptions) dataset from Kaggle. 
 ## Project Structure
 - README.md               # Project documentation
-- emotion-classification-cnn-using-keras.ipynb   # Jupyter Notebook with code and explanations
-- haarcascade_frontalface_default.xml   # Haar Cascade XML file for face detection
-- main.py                 # Main Python script for running the emotion classification
-- model.h5                # Pre-trained CNN model for emotion classification
-- tempCodeRunnerFile.py   # Temporary code runner file (can be removed)
+- flickr8k-image-captioning-using-cnns-lstms.ipynb # Jupyter Notebook with code and explanations
+
 
 
