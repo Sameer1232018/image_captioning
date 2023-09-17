@@ -1,4 +1,4 @@
-# Image Captioning with CNN
+# Image Captioning with CNN and NLP
 
 ## Overview
 This project demonstrates an image captioning system that utilizes Convolutional Neural Networks (CNNs) for image processing and Natural Language Processing (NLP) techniques for text generation. The system generates descriptive captions for images, providing a richer context to visual content.
@@ -20,12 +20,3 @@ The project used the ([https://www.kaggle.com/jonathanoheix/face-expression-reco
 - tempCodeRunnerFile.py   # Temporary code runner file (can be removed)
 
 
-## Getting Started
-1. Clone the repository to your local machine:
-2. Set up the required Python environment and dependencies:
-
-3. Download the pre-trained model (`model.h5`) from [here](provide-download-link) and save it to a local directory of your choice.
-
-4. Open the `main.py` file and update the `load_model` line with the local path to your downloaded `model.h5` file:
-   classifier = load_model(r'path_to_your_model.h5')
-5. Run the main.py script:
