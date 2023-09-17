@@ -10,7 +10,7 @@ This project demonstrates an image captioning system that utilizes Convolutional
 - Utilized a DataGenerator technique to efficiently handle large image datasets and dynamically generate training data, optimizing memory usage during the training process.
 
 ## Dataset
-The project used the (https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset) dataset from Kaggle. This dataset provides a diverse collection of facial images with expressions, which can be used for training and evaluation.
+The project used the ([https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset](https://www.kaggle.com/datasets/aladdinpersson/flickr8kimagescaptions)) dataset from Kaggle. This dataset provides a diverse collection of facial images with expressions, which can be used for training and evaluation.
 
 ## Project Structure
 - README.md               # Project documentation
