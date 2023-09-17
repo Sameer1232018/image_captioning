@@ -30,7 +30,7 @@ This project demonstrates an image captioning system that utilizes Convolutional
 The project used the (https://www.kaggle.com/datasets/aladdinpersson/flickr8kimagescaptions) dataset from Kaggle. 
 ## Project Structure
 - README.md               # Project documentation
-- flickr8k-image-captioning-using-cnns-lstms.ipynb # Jupyter Notebook with code and explanations
+- image-captioning (6).ipynb # Jupyter Notebook with code
 
 
 
