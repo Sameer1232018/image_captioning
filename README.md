@@ -1,6 +1,8 @@
 # Image Captioning with CNN and NLP
 
 ## Overview
+Project Kaggle link: https://www.kaggle.com/code/sameer1232018/image-captioning?scriptVersionId=143315563
+
 This project demonstrates an image captioning system that utilizes Convolutional Neural Networks (CNNs) for image processing and Natural Language Processing (NLP) techniques for text generation. The system generates descriptive captions for images, providing a richer context to visual content.
 
 ## Project Highlights
